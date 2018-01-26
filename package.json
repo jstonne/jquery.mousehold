@@ -1,0 +1,25 @@
+{
+  "name": "jquery.mousehold",
+  "version": "1.0.0",
+  "description": "Mousehold event for jQuery.",
+  "main": "jquery.mousehold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yansern/jquery.mousehold.git"
+  },
+  "keywords": [
+    "jquery",
+    "mouse",
+    "event",
+    "mousehold"
+  ],
+  "author": "Yan Sern (hey@yansern.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yansern/jquery.mousehold/issues"
+  },
+  "homepage": "https://github.com/yansern/jquery.mousehold#readme"
+}
